@@ -9,7 +9,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 ### 01_Basics
 
 - [x] 01_HelloWorld
-- [ ] 02_ConsoleBasics
+- [x] 02_ConsoleBasics
 - [ ] 03_UserInput_Name
 - [ ] 04_AgeCalculator
 - [ ] 05_BMI_Calculator

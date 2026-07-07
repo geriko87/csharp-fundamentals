@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_UserInput_Name", "01_Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_AgeCalculator", "01_Basics\04_AgeCalculator\04_AgeCalculator.csproj", "{B4FD6AB7-41CF-441C-BD86-32BD830F973F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_BMI_Calculator", "01_Basics\05_BMI_Calculator\05_BMI_Calculator.csproj", "{299CFBB0-77B1-4744-9518-F199BBD96614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B4FD6AB7-41CF-441C-BD86-32BD830F973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FD6AB7-41CF-441C-BD86-32BD830F973F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FD6AB7-41CF-441C-BD86-32BD830F973F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299CFBB0-77B1-4744-9518-F199BBD96614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299CFBB0-77B1-4744-9518-F199BBD96614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299CFBB0-77B1-4744-9518-F199BBD96614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299CFBB0-77B1-4744-9518-F199BBD96614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{3F82B5B7-9F12-9B26-2564-51207EBE9ED5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{55D3D93F-E20F-4B07-B21C-ED074C809215} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B4FD6AB7-41CF-441C-BD86-32BD830F973F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{299CFBB0-77B1-4744-9518-F199BBD96614} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72256A1C-D6E2-4CD1-AAA5-C4C449A28756}

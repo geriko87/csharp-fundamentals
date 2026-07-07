@@ -13,7 +13,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 - [x] 03_UserInput_Name
 - [x] 04_AgeCalculator
 - [x] 05_BMI_Calculator
-- [ ] 06_TimeFormatConverter
+- [x] 06_TimeFormatConverter
 
 ### 02_Logic_Conditions
 

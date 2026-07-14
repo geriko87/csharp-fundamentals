@@ -17,11 +17,10 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 
 ### 02_Logic_Conditions
 
-- [ ] 01_PasswordCheck
-- [ ] 02_PasswordMaskedInput
-- [ ] 03_SimpleCalculator
-- [ ] 04_NumberToText
-- [ ] 05_VowelConsonantChecker
+- [x] 01_PasswordCheck
+- [x] 02_SimpleCalculator
+- [ ] 03_NumberToText
+- [ ] 04_VowelConsonantChecker
 
 ### 03_Advanced_Problems
 

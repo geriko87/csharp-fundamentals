@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_TimeFormatConverter", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_PasswordCheck", "02_Logic_Conditions\01_PasswordCheck\01_PasswordCheck.csproj", "{15CF06C4-09F4-4678-8F84-FD1FE7A9D92D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SimpleCalculator", "02_Logic_Conditions\02_SimpleCalculator\02_SimpleCalculator.csproj", "{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{15CF06C4-09F4-4678-8F84-FD1FE7A9D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15CF06C4-09F4-4678-8F84-FD1FE7A9D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15CF06C4-09F4-4678-8F84-FD1FE7A9D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{299CFBB0-77B1-4744-9518-F199BBD96614} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{BE8ACD55-7BAB-44DE-BF23-961DED377D07} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{15CF06C4-09F4-4678-8F84-FD1FE7A9D92D} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
+		{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72256A1C-D6E2-4CD1-AAA5-C4C449A28756}

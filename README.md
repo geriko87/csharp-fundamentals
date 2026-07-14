@@ -19,8 +19,9 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 
 - [x] 01_PasswordCheck
 - [x] 02_SimpleCalculator
-- [ ] 03_NumberToText
-- [ ] 04_VowelConsonantChecker
+- [x] 03_ExpressionCalculator
+- [ ] 04_NumberToText
+- [ ] 05_VowelConsonantChecker
 
 ### 03_Advanced_Problems
 

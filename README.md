@@ -22,7 +22,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 - [x] 03_ExpressionCalculator
 - [x] 04_NumberToText
 - [x] 05_VowelConsonantChecker
-- [ ] 06_TankFillingSimulation
+- [x] 06_TankFillingSimulation
 
 ## Technologies
 

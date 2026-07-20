@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ExpressionCalculator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_NumberToText", "02_Logic_Conditions\04_NumberToText\04_NumberToText.csproj", "{B80F7A60-B38B-4CCE-922D-D00EE3B9B605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_VowelConsonantChecker", "02_Logic_Conditions\05_VowelConsonantChecker\05_VowelConsonantChecker.csproj", "{63BD1A90-FA27-4FB6-8CF0-F07E8D651EB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B80F7A60-B38B-4CCE-922D-D00EE3B9B605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B80F7A60-B38B-4CCE-922D-D00EE3B9B605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B80F7A60-B38B-4CCE-922D-D00EE3B9B605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BD1A90-FA27-4FB6-8CF0-F07E8D651EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BD1A90-FA27-4FB6-8CF0-F07E8D651EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BD1A90-FA27-4FB6-8CF0-F07E8D651EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BD1A90-FA27-4FB6-8CF0-F07E8D651EB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{2D958CC2-A1FF-4FA7-8F6C-D4913604DFD3} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
 		{00DA2470-AB60-7715-CD66-958EBEF29152} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
 		{B80F7A60-B38B-4CCE-922D-D00EE3B9B605} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
+		{63BD1A90-FA27-4FB6-8CF0-F07E8D651EB2} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72256A1C-D6E2-4CD1-AAA5-C4C449A28756}

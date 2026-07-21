@@ -24,6 +24,22 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 - [x] 05_VowelConsonantChecker
 - [x] 06_TankFillingSimulation
 
+### 03_Loops_Random_Math
+
+- [x] 01_PrintNumbersAndEvens
+- [ ] 02_PasswordChecker
+- [ ] 03_RandomNumberGuesser
+- [ ] 04_BoardGameStarter
+- [ ] 05_NumberGuessingGame
+- [ ] 06_NumberProperties
+- [ ] 07_FactorialCalculator
+- [ ] 08_MultiplicationTable
+- [ ] 09_ConsoleTimer
+- [ ] 10_DecToBinConverter
+- [ ] 11_SlotMachineConsole
+- [ ] 12_SlotMachineAsciiArt
+- [ ] 13_CryptoPriceSimulation
+
 ## Technologies
 
 - C#

@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_PrintNumbersAndEvens", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_PasswordChecker", "03_Loops_Random_Math\02_PasswordChecker\02_PasswordChecker.csproj", "{C7BDFB43-1BCC-4ACD-BE2C-38E39AB8DBD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_RandomNumberGuesser", "03_Loops_Random_Math\03_RandomNumberGuesser\03_RandomNumberGuesser.csproj", "{AEDF6900-3D44-4442-9B35-E34F34CABE13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C7BDFB43-1BCC-4ACD-BE2C-38E39AB8DBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7BDFB43-1BCC-4ACD-BE2C-38E39AB8DBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7BDFB43-1BCC-4ACD-BE2C-38E39AB8DBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDF6900-3D44-4442-9B35-E34F34CABE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDF6900-3D44-4442-9B35-E34F34CABE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDF6900-3D44-4442-9B35-E34F34CABE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDF6900-3D44-4442-9B35-E34F34CABE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{0420B392-88E5-4B5B-9A97-90438B16EA08} = {30166E11-F419-4454-A00A-7E0C471E8AB3}
 		{E575DA2F-FEBC-4086-8031-1BDF7D85FE31} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
 		{C7BDFB43-1BCC-4ACD-BE2C-38E39AB8DBD5} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
+		{AEDF6900-3D44-4442-9B35-E34F34CABE13} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72256A1C-D6E2-4CD1-AAA5-C4C449A28756}

@@ -27,7 +27,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 ### 03_Loops_Random_Math
 
 - [x] 01_PrintNumbersAndEvens
-- [ ] 02_PasswordChecker
+- [x] 02_PasswordChecker
 - [ ] 03_RandomNumberGuesser
 - [ ] 04_BoardGameStarter
 - [ ] 05_NumberGuessingGame

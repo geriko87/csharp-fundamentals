@@ -29,7 +29,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 - [x] 01_PrintNumbersAndEvens
 - [x] 02_PasswordChecker
 - [x] 03_RandomNumberGuesser
-- [ ] 04_BoardGameStarter
+- [x] 04_BoardGameStarter
 - [ ] 05_NumberGuessingGame
 - [ ] 06_NumberProperties
 - [ ] 07_FactorialCalculator

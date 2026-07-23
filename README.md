@@ -32,7 +32,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 - [x] 04_BoardGameStarter
 - [x] 05_NumberGuessingGame
 - [x] 06_NumberProperties
-- [ ] 07_FactorialCalculator
+- [x] 07_FactorialCalculator
 - [ ] 08_MultiplicationTable
 - [ ] 09_ConsoleTimer
 - [ ] 10_DecToBinConverter

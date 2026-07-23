@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_RandomNumberGuesser", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_BoardGameStarter", "03_Loops_Random_Math\04_BoardGameStarter\04_BoardGameStarter.csproj", "{D7CFB8CC-F130-4D09-876D-B553DF3295BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_NumberGuessingGame", "03_Loops_Random_Math\05_NumberGuessingGame\05_NumberGuessingGame.csproj", "{DA77A7FF-36D4-4683-A9CC-2A8EDC981E12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D7CFB8CC-F130-4D09-876D-B553DF3295BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7CFB8CC-F130-4D09-876D-B553DF3295BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7CFB8CC-F130-4D09-876D-B553DF3295BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA77A7FF-36D4-4683-A9CC-2A8EDC981E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA77A7FF-36D4-4683-A9CC-2A8EDC981E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA77A7FF-36D4-4683-A9CC-2A8EDC981E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA77A7FF-36D4-4683-A9CC-2A8EDC981E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{C7BDFB43-1BCC-4ACD-BE2C-38E39AB8DBD5} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
 		{AEDF6900-3D44-4442-9B35-E34F34CABE13} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
 		{D7CFB8CC-F130-4D09-876D-B553DF3295BE} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
+		{DA77A7FF-36D4-4683-A9CC-2A8EDC981E12} = {B019BE70-2A95-4536-8316-DF7FE002E60D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72256A1C-D6E2-4CD1-AAA5-C4C449A28756}

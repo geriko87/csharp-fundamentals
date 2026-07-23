@@ -12,14 +12,14 @@
             {
                 Console.WriteLine($"The {number} is even.");
             }
-            else 
+            else
             {
                 Console.WriteLine($"The {number} is odd.");
             }
             Console.WriteLine();
 
             int counter = 0;
-            for (int i = 2; i < number; i++) 
+            for (int i = 2; i < number; i++)
             {
                 if (number % i == 0)
                 {
@@ -29,7 +29,7 @@
             Console.WriteLine($"Positive divisors of the {number} is {counter}.");
             Console.WriteLine();
 
-            if (number <= 1) 
+            if (number <= 1)
             {
                 Console.WriteLine($"The {number} is neither prime nor composite.");
             }
@@ -44,3 +44,4 @@
         }
     }
 }
+

@@ -34,7 +34,7 @@ The goal of this repository is to build a strong foundation in C# by solving pro
 - [x] 06_NumberProperties
 - [x] 07_FactorialCalculator
 - [x] 08_MultiplicationTable
-- [ ] 09_ConsoleTimer
+- [x] 09_ConsoleTimer
 - [ ] 10_DecToBinConverter
 - [ ] 11_SlotMachineConsole
 - [ ] 12_SlotMachineAsciiArt
